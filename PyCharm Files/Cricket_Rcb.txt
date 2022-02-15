@@ -1,0 +1,11 @@
+Virat_Kohli,Batsmen
+Rohit_Sharma ,Batsmen
+Shikhar_Dhawan,Batsmen
+Ms._Dhoni,Wicket_Keeper
+Hardik_Pandya,Batsmen
+Rishabh_Pant,Batsmen
+Ashwin,Bowler
+Chahal,Bowler
+Kuldeep_Yadav,Bowler
+Mohammad_Shami,Bowler
+Umesh_Yadav,Bowler

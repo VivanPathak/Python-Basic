@@ -1,0 +1,5 @@
+Virat_Kohli,Batsmen
+Rohit_Sharma ,Batsmen
+Shikhar_Dhawan,Batsmen
+Hardik_Pandya,Batsmen
+Rishabh_Pant,Batsmen
